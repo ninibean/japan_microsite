@@ -17,7 +17,7 @@ An interactive web experience exploring my travels through Japan, told through t
 5. Polish and deploy
 
 ## Notes and updates
-View them on my portfolio: 
+View them on my portfolio: https://itsnsp.webflow.io/aka
 
 ## Goal
 I'm aiming to replicate the feelings of serenity and nostalgia that are still stuck with me a whole year later into this web-based experience.
